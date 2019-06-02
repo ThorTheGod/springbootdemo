@@ -1,0 +1,23 @@
+2019-06-02 16:58:19.363  INFO 7900 --- [main] c.n.s.SpringbootdemoApplication          : Starting SpringbootdemoApplication on DESKTOP-AJLFFD9 with PID 7900 (C:\javaProject\springboot\target\classes started by 宋 in C:\javaProject\springboot)
+2019-06-02 16:58:19.373  INFO 7900 --- [main] c.n.s.SpringbootdemoApplication          : No active profile set, falling back to default profiles: default
+2019-06-02 16:58:23.287  INFO 7900 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-06-02 16:58:23.325  INFO 7900 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-06-02 16:58:23.326  INFO 7900 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-06-02 16:58:23.580  INFO 7900 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring embedded WebApplicationContext
+2019-06-02 16:58:23.581  INFO 7900 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 4037 ms
+2019-06-02 16:58:24.030  INFO 7900 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-02 16:58:24.604  INFO 7900 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path '/boot'
+2019-06-02 16:58:24.607  INFO 7900 --- [main] c.n.s.SpringbootdemoApplication          : Started SpringbootdemoApplication in 6.393 seconds (JVM running for 7.44)
+2019-06-02 17:00:58.479  INFO 9884 --- [main] c.n.s.SpringbootdemoApplication          : Starting SpringbootdemoApplication on DESKTOP-AJLFFD9 with PID 9884 (C:\javaProject\springboot\target\classes started by 宋 in C:\javaProject\springboot)
+2019-06-02 17:00:58.485  INFO 9884 --- [main] c.n.s.SpringbootdemoApplication          : No active profile set, falling back to default profiles: default
+2019-06-02 17:01:02.720  INFO 9884 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-06-02 17:01:02.787  INFO 9884 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-06-02 17:01:02.789  INFO 9884 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-06-02 17:01:03.087  INFO 9884 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring embedded WebApplicationContext
+2019-06-02 17:01:03.088  INFO 9884 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 4432 ms
+2019-06-02 17:01:03.555  INFO 9884 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-02 17:01:04.176  INFO 9884 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path '/boot'
+2019-06-02 17:01:04.183  INFO 9884 --- [main] c.n.s.SpringbootdemoApplication          : Started SpringbootdemoApplication in 6.869 seconds (JVM running for 7.743)
+2019-06-02 17:01:04.277  INFO 9884 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-06-02 17:01:04.278  INFO 9884 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-06-02 17:01:04.287  INFO 9884 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 9 ms

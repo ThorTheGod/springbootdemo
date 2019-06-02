@@ -1,0 +1,6 @@
+server:
+  servlet:
+    context-path: /boot
+  port: 8081
+logging:
+  file: logs/log.log
